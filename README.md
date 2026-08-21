@@ -1,4 +1,4 @@
-# 💻 Portfólio Profissional — Alessandra Matos
+# 💻 Portfólio Profissional — Alessandra Galeno
 
 Bem-vindo(a) ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido com o objetivo de apresentar minha trajetória acadêmica, competências técnicas e projetos na área de desenvolvimento de software e banco de dados.
 
