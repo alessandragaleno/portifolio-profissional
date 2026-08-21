@@ -6,7 +6,7 @@ Bem-vindo(a) ao repositório do meu portfólio pessoal! Este projeto foi desenvo
 
 ## 🙋‍♀️ Sobre Mim
 
-Olá! Sou **Alessandra Matos Galeno**, estudante de **Análise e Desenvolvimento de Sistemas** (UNIFACVEST) e com formação técnica em **Informática para a Internet** (SENAC).
+Olá! Sou **Alessandra M Galeno**, estudante de **Análise e Desenvolvimento de Sistemas** (UNIFACVEST) e com formação técnica em **Informática para a Internet** (SENAC).
 
 Tenho foco no desenvolvimento de soluções web eficientes, construção de interfaces responsivas e gerenciamento de bancos de dados. Valorizo a escrita de código limpo, a resolução de problemas práticos e o aprendizado contínuo.
 
