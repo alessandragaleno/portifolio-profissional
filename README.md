@@ -15,7 +15,7 @@ Tenho foco no desenvolvimento de soluções web eficientes, construção de inte
   - Análise e Desenvolvimento de Sistemas (Em andamento)
   - Curso Técnico em Informática para a Internet (SENAC)
   - Administração de Banco de Dados (SENAC)
-- 💼 **Áreas de Interesse:** Desenvolvimento Front-end, Desenvolvimento Python/Django, Banco de Dados e UI/UX.
+- 💼 **Áreas de Interesse:** Desenvolvimento Front-end, Desenvolvimento Python/Django, Banco de Dados.
 
 ---
 
@@ -23,8 +23,8 @@ Tenho foco no desenvolvimento de soluções web eficientes, construção de inte
 
 - **Linguagens:** HTML5, CSS3, JavaScript, Python
 - **Frameworks & Libs:** Django, Bootstrap
-- **Banco de Dados:** MySQL / PostgreSQL
-- **Ferramentas & Ambientes:** Git, GitHub, VS Code, Linux (WSL/Ubuntu), Figma
+- **Banco de Dados:** MySQL / Oracle
+- **Ferramentas & Ambientes:** Git, GitHub, VS Code, Linux (WSL/Ubuntu), Figma, SQL
 
 ---
 
